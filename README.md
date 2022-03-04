@@ -7,6 +7,8 @@ On the free time I like to ride a bike, and also I'm starting to love reading ag
 
 Oh, I forgot to mention, I *love* Halsey.💖
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vhlk)
+
 <!--
 **vhlk/vhlk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
