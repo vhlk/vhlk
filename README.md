@@ -1,9 +1,9 @@
 ### Hi there 👋🥰💬
 My name's Victor Hugo. I'm a Computer Science student at Centro de Informática, Federal University of Pernambuco.
 
-I'm currently working for Voxar Labs as research scientist.⚡
+I'm currently working for [![SERPRO](https://www.serpro.gov.br/) SERPRO](https://www.serpro.gov.br/) as technology analyst.⚡
 
-On the free time I like to ride a bike, and also I'm starting to love reading again.📖
+On the free time I like to ride a bike, swimming, running, and also reading (right now I'm reading the collection "A Rainha Vermelha", by Victoria Aveyard).📖
 
 Oh, I forgot to mention, I *love* Halsey.💖
 
